@@ -1,0 +1,22 @@
+| Modèle                      | Voisins proches | F1-score optimal | Features - F1-score                             |Taux de faux négatif |
+|-----------------------------|-----------------|------------------|-------------------------------------------------|---------------------|
+| Random Forest Classifier    | -               | 0.6541           | ['temp','dew','humidity','windspeed','winddir', | 7.38%               |
+|			      |			|                  | 'sealevelpressure']			     |			   |
+|-----------------------------|-----------------|------------------|-------------------------------------------------|---------------------|
+| Logistic Regression Model   | -               | 0.4283           | ['tempmax','tempmin','temp','feelslike','dew',  | 3.59%		   |
+|			      |			|		   | 'precip','precipprob','precipcover','snow',     |			   |
+|			      |			|		   | 'windspeed','winddir','sealevelpressure',       |			   |
+|			      |			|		   | 'cloudcover','visibility','solarradiation',     |			   |
+|			      |			|		   | 'Weekend','Precip_last_7D'] 		     |                     |
+|-----------------------------|-----------------|------------------|-------------------------------------------------|---------------------|
+| SGD Classifier Model        | -               | 0.5483           | ['tempmax','tempmin','temp','feelslike',        | 3.59%		   |
+|			      |			|		   | 'humidity','precip','precipprob','precipcover', |			   |
+|			      |			|		   | 'snow','snowdepth','windspeed','winddir',       |			   |
+|			      |			|		   | 'solarradiation','severerisk','Weekend',        |			   |
+|			      |			|		   | 'Precip_last_7D','holidays']                    |                     |
+|-----------------------------|-----------------|------------------|-------------------------------------------------|---------------------|
+
+
+['tempmax', 'tempmin', 'temp', 'feelslike', 'dew', 'humidity', 'precip', 'windspeed', 'winddir', 'sealevelpressure', 'cloudcover', 'visibility', 'solarradiation', 'solarenergy', 'Precip_last_7D']
+['tempmax', 'tempmin', 'temp', 'feelslike', 'dew', 'humidity', 'precip', 'windspeed', 'winddir', 'sealevelpressure', 'cloudcover', 'visibility', 'solarradiation', 'solarenergy', 'Precip_last_7D']
+['tempmax', 'tempmin', 'temp', 'feelslike', 'dew', 'precip', 'precipprob', 'precipcover', 'snow', 'windspeed', 'winddir', 'sealevelpressure', 'cloudcover', 'visibility', 'solarradiation', 'Weekend', 'Precip_last_7D']

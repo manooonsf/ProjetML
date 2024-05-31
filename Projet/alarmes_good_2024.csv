@@ -1,0 +1,53 @@
+Date début alarmes,Heure début alarme,Date fin alarme,Heure fin alarmes,Numéro,Type,Description,Commune,Intervention
+2024-05-21, 21:29,2024-05-21, 23:50,54,Inondation,Colonne de chute bouchée,Chavannes,1
+2024-05-20, 20:01,2024-05-20, 21:00,53,Inondation,Rupture chauffe-eau,Ecublens,1
+2024-05-19, 03:01,2024-05-19, 04:10,52,Divers,Odeur de brulé,Ecublens,1
+2024-05-12, 17:48,2024-05-12, 18:48,51,Feu,Feu d'installation électrique,Chavannes,1
+2024-05-11, 15:40,2024-05-11, 16:15,50,Feu,Feu de poubelle,Ecublens,1
+2024-05-11, 08:31,2024-05-11, 09:15,49,Sauvetage animaux/NAC,Canard dans un conduit de cheminée,Chavannes,1
+2024-05-10, 18:45,2024-05-10, 19:15,48,Alarme automatique,Fumée dans une chambre,Ecublens,1
+2024-05-10, 17:36,2024-05-10, 18:10,47,Assistance à personne,Personne bloquée dans un local,Chavannes,1
+2024-05-04, 07:20,2024-05-04, 08:00,46,Alarme automatique,Défaut technique,Ecublens,1
+2024-05-02, 08:19,2024-05-02, 09:08,45,Officier de service,Inondation extérieur,Saint-Sulpice,1
+2024-05-01, 21:17,2024-05-01, 22:34,44,Alarme automatique,Coup de bélier,Ecublens,1
+2024-05-01, 09:34,2024-05-01, 10:44,43,Feu,Feu dans le broyeur,Ecublens,1
+2024-05-01, 00:09,2024-05-01, 00:48,42,Alarme automatique,Cause inconnue,Ecublens,1
+2024-04-21, 14:13,2024-04-21, 16:03,41,Alarme automatique,Cause inconnue,Ecublens,1
+2024-04-20, 17:23,2024-04-20, 18:05,40,Alarme automatique,Chaleur provoquée par un sèche cheveux,Chavannes,1
+2024-04-15, 05:55,2024-04-15, 06:59,39,Alarme automatique,Lavage vapeur,Ecublens,1
+2024-04-10, 18:56,2024-04-10, 19:44,38,Officier de service,Contrôle de batterie,Saint-Sulpice,1
+2024-04-06, 23:08,2024-04-07, 00:08,37,Alarme automatique,Nettoyage vapeur,Ecublens,1
+2024-04-04, 13:35,2024-04-04, 14:05,36,Alarme automatique,Poussière de chantier,Ecublens,1
+2024-04-03, 19:57,2024-04-03, 21:22,35,Inondation,Colonne de chute bouchée,Ecublens,1
+2024-04-02, 22:26,2024-04-04, 23:56,34,Alarme automatique,Cause inconnue,Ecublens,1
+2024-04-02, 16:34,2024-04-02, 16:45,33,Alarme automatique,Par erreur,Chavannes,1
+2024-04-02, 08:29,2024-04-02, 10:00,32,Inondation,Rupture chauffe-eau,Ecublens,1
+2024-03-27, 23:35,2024-03-28, 00:05,31,Alarme automatique,Cause inconnue,Ecublens,1
+2024-03-24, 18:06,2024-03-24, 19:30,30,Inondation,Colonne de chute bouchée,Ecublens,1
+2024-03-23, 13:31,2024-03-23, 14:21,29,Feu,Feu dans les conduits de ventilation,Ecublens,1
+2024-03-19, 13:25,2024-03-19, 14:05,28,Feu,Feu de poubelle,Chavannes,1
+2024-03-18, 08:31,2024-03-18, 09:45,27,Divers,Odeur de gaz,Chavannes,1
+2024-03-17, 14:55,2024-03-17, 15:15,26,Officier de service,,Chavannes,1
+2024-03-17, 07:00,2024-03-17, 14:18,25,Feu,Feu d'appartement,Chavannes,1
+2024-03-17, 00:27,2024-03-17, 04:20,24,Feu,Feu de véhicules,Ecublens,1
+2024-03-11, 08:15,2024-03-11, 09:29,23,Alarme automatique réelle,Fumée dans le conduite d'évacuation des cendres,Ecublens,1
+2024-03-08, 12:27,2024-03-08, 12:55,22,Assistance à personne,Ascenseur bloqué avec deux personnes,Chavannes,1
+2024-03-07, 21:33,2024-03-07, 21:50,21,Alarme automatique,Fumée dans une chambre,Ecublens,1
+2024-03-07, 20:35,2024-03-07, 21:10,20,Alarme automatique,Lavage vapeur,Chavannes,1
+2024-03-04, 14:06,2024-03-04, 14:36,19,Alarme automatique,Erreur manipulation,Saint-Sulpice,1
+2024-02-27, 22:04,2024-02-27, 22:46,18,Alarme automatique,Défaut technique,Ecublens,1
+2024-02-25, 15:13,2024-02-25, 16:07,17,Assistance à personne,Ascenseur bloqué avec deux personnes,Chavannes,1
+2024-02-13, 16:00,2024-02-13, 16:57,16,Officier de service,Chute d'arbre,Ecublens,1
+2024-02-11, 01:48,2024-02-11, 04:49,15,Alarme automatique,Défaut technique,Chavannes,1
+2024-02-09, 19:21,2024-02-09, 20:36,14,Assistance à personne,Personne bloquée dans un local,Chavannes,1
+2024-02-07, 10:14,2024-02-07, 12:56,13,Divers,Mesure de CO,Ecublens,1
+2024-02-05, 16:19,2024-02-05, 16:44,12,Divers,Fumée suspecte,Chavannes,1
+2024-02-02, 16:08,2024-02-02, 16:50,11,,Feu de poubelle,Chavannes,1
+2024-01-22, 09:17,2024-01-22, 10:00,10,Feu,Feu de poubelle,Ecublens,1
+2024-01-21, 14:57,2024-01-21, 16:22,9,Officier de service,Rupture de conduite due au gel,Saint-Sulpice,1
+2024-01-16, 20:01,2024-01-16, 21:30,8,Feu,Feu de cuisine,Ecublens,1
+2024-01-14, 17:53,2024-01-15, 19:10,7,Divers,Feu ayant existé (casserole + hotte),Chavannes,1
+2024-01-13, 19:43,2024-01-13, 20:40,6,Sauvetage animaux/NAC,Chat coinsé dans un fauteuil électrique,Ecublens,1
+2024-01-08, 19:53,2024-01-08, 20:51,5,Divers,Fumée suspecte,Saint-Sulpice,1
+2024-01-08, 13:46,2024-01-08, 15:12,4,Feu,Feu sur un balcon,Chavannes,1
+2024-01-05, 17:29,2024-01-05, 18:11,3,Alarme automatique réelle,Fumée de cuisson,Chavannes,1
